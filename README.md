@@ -1,5 +1,8 @@
 #  Mailing System Utilizing Kafka
 
+## Overview
+Microservices-based mailing system using Golang and Kafka as the message broker for seamless communication and event processing.
+
 ## STACK
 - GO (V1.23.2)
 - Go Fiber
