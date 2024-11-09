@@ -1,7 +1,7 @@
-##  Back End Age Assurance
+#  Mailing System Utilizing Kafka
 
 ## STACK
-- GO (V1.20.2)
+- GO (V1.23.2)
 - Go Fiber
 - Kafka
 
