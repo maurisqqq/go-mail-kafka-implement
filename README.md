@@ -12,4 +12,4 @@ Microservices-based mailing system using Golang and Kafka as the message broker 
 - Clone this repo "git clone repo_name" 
 - Copy file .env.example to .env
 - Setup .env file
-- Run this project "go run main.go" or "go build main.go"
+- Run each services independently using "go run main.go" or "go build main.go"
